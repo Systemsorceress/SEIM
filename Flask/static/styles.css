@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #69D2E7; /* A shade of green-blue */
+}
+
+.login-container {
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.input-group {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: calc(100% - 22px); /* Adjusted width to accommodate the border */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #69D2E7; /* Lively green color */
+    color: #FFFFFF;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 10px; /* Add margin between the input fields and button */
+}
+
+button:hover {
+    background-color: #4AB9D7; /* Darker shade of green on hover */
+}

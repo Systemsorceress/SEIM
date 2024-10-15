@@ -1,0 +1,14 @@
+$csv_file_path = 'E:\SEIM\SEL.csv'
+
+Get-EventLog -LogName System -After (Get-Date).Date -Before ((Get-Date).Date.AddDays(1).AddSeconds(-1)) |
+Select-Object EventID, MachineName,Data,Category,CategoryName, EntryType, Message,Source,ReplacementStrings,InstanceID,TimeGenerated, TimeWritten,UserName |
+Export-Csv -NoTypeInformation -Path $csv_file_path
+
+Get-EventLog -LogName Security -After (Get-Date).Date -Before ((Get-Date).Date.AddDays(1).AddSeconds(-1)) |
+Select-Object EventID, MachineName,Data,Category,CategoryName, EntryType, Message,Source,ReplacementStrings,InstanceID,TimeGenerated, TimeWritten,UserName |
+Export-Csv -NoTypeInformation -Append -Path $csv_file_path
+
+Get-EventLog -LogName Application -After (Get-Date).Date -Before ((Get-Date).Date.AddDays(1).AddSeconds(-1)) |
+Select-Object EventID, MachineName,Data,Category,CategoryName, EntryType, Message,Source,ReplacementStrings,InstanceID,TimeGenerated, TimeWritten,UserName |
+Export-Csv -NoTypeInformation -Append -Path $csv_file_path
+

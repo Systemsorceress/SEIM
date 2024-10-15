@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pie Charts with Text</title>
+    <style>
+        /* Styles from provided HTML */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 20px;
+        }
+        .chart-container,
+        .text-container {
+            width: 45%; /* Adjust the width as needed */
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .chart-container canvas {
+            width: 100%;
+            height: auto;
+        }
+        h2 {
+            margin-top: 0;
+        }
+        p {
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="chart-container">
+            <canvas id="pie-chart-1" width="400" height="400"></canvas>
+        </div>
+        <div class="chart-container">
+            <canvas id="pie-chart-2" width="400" height="400"></canvas>
+        </div>
+    </div>
+    <div class="container">
+        <div class="text-container">
+            <h2>TOTAL LOGS</h2>
+            <p>This is where your total logs text goes.</p>
+        </div>
+        <div class="text-container">
+            <h2>ENTRY LEVELS</h2>
+            <p>This is where your entry levels text goes.</p>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        // JavaScript code for pie charts (same as provided)
+        // ...
+    </script>
+</body>
+</html>

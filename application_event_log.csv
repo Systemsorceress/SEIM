@@ -1,0 +1,1806 @@
+"EventID","MachineName","Data","EntryType","Message","Source","ReplacementStrings","TimeGenerated","TimeWritten","UserName"
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC1E5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4A5.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4D5.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4E2.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC551.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERC592.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_7b9d1df5-548c-4a18-8707-d547f129a20d
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 13:06:06","18/05/2024 13:06:06",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC1E5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4A5.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4D5.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4E2.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC551.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERC592.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 13:06:04","18/05/2024 13:06:04",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x498c
+Faulting application start time: 0x01daa8fa38e82d51
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 13:06:02","18/05/2024 13:06:02",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6197.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6457.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6496.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6541.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6583.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_1bfbeee9-fcac-4d17-8a45-432668959c0e
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:58:03","18/05/2024 12:58:03",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6197.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6457.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6496.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6541.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6583.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:58:01","18/05/2024 12:58:01",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x358c
+Faulting application start time: 0x01daa8f91839feb3
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:57:58","18/05/2024 12:57:58",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER62EE.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6408.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6438.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6445.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6505.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_43ca5265-a0ab-47dd-b14d-af98a4644336
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 8e761136-f0da-46a9-8336-15c602a4f91a
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:43:50","18/05/2024 12:43:50",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER62EE.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6408.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6438.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6445.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6505.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 8e761136-f0da-46a9-8336-15c602a4f91a
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:43:49","18/05/2024 12:43:49",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x231c
+Faulting application start time: 0x01daa8f71d40e971
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 8e761136-f0da-46a9-8336-15c602a4f91a
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:43:47","18/05/2024 12:43:47",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREB0D.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERED7F.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDDD.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDEB.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREE69.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WEREEAB.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_acfd1394-dee9-414f-aa61-947d0e7573bd
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:40:04","18/05/2024 12:40:04",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREB0D.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERED7F.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDDD.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDEB.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREE69.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WEREEAB.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:40:02","18/05/2024 12:40:02",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x41b8
+Faulting application start time: 0x01daa8f6950cb407
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:39:59","18/05/2024 12:39:59",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 12:36:24","18/05/2024 12:36:24","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 12:36:24","18/05/2024 12:36:24","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","Service stopped.","edgeupdate","System.String[]","18/05/2024 12:21:40","18/05/2024 12:21:40",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 11:36:22","18/05/2024 11:36:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 11:36:22","18/05/2024 11:36:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"3","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '3' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker elapsed'","iBtSiva","System.String[]","18/05/2024 11:35:17","18/05/2024 11:35:17",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'avast' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'","avast","System.String[]","18/05/2024 11:35:02","18/05/2024 11:35:02",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User unlock'","SynTPEnhService","System.String[]","18/05/2024 11:34:22","18/05/2024 11:34:22",
+"1","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '1' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker starting'","iBtSiva","System.String[]","18/05/2024 11:34:17","18/05/2024 11:34:17",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User lock'","SynTPEnhService","System.String[]","18/05/2024 02:12:58","18/05/2024 02:12:58",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:53","18/05/2024 02:09:53",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:53","18/05/2024 02:09:53",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:52","18/05/2024 02:09:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:52","18/05/2024 02:09:52",
+"16394","DESKTOP-LUGE14R","System.Byte[]","Information","Offline downlevel migration succeeded.","Software Protection Platform Service","System.String[]","18/05/2024 01:47:30","18/05/2024 01:47:30",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERDC5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF3D.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF4D.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF5B.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF9A.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERFDC.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_86a41054-6d7c-400c-aec7-1d3b0b0000c1
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 01:36:08","18/05/2024 01:36:08",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERDC5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF3D.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF4D.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF5B.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF9A.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERFDC.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 01:36:04","18/05/2024 01:36:04",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x2d3c
+Faulting application start time: 0x01daa899d4f0a8f9
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 01:36:02","18/05/2024 01:36:02",
+"8128","DESKTOP-LUGE14R","System.Byte[]","Information","Using 'xpstar.dll' version '2022.160.1000' to execute extended stored procedure 'xp_instance_regread'. This is an informational message only; no user action is required.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:24:09","18/05/2024 01:24:09",
+"33090","DESKTOP-LUGE14R","System.Byte[]","Information","Attempting to load library 'xpstar.dll' into memory. This is an informational message only. No user action is required.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:24:09","18/05/2024 01:24:09",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:15:25","18/05/2024 01:15:25","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:15:25","18/05/2024 01:15:25","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 00:15:22","18/05/2024 00:15:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 00:15:22","18/05/2024 00:15:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 13:36:27","18/05/2024 13:36:27","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 13:36:27","18/05/2024 13:36:27","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC1E5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4A5.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4D5.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4E2.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC551.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERC592.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_7b9d1df5-548c-4a18-8707-d547f129a20d
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 13:06:06","18/05/2024 13:06:06",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC1E5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4A5.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4D5.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4E2.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC551.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERC592.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 13:06:04","18/05/2024 13:06:04",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x498c
+Faulting application start time: 0x01daa8fa38e82d51
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 13:06:02","18/05/2024 13:06:02",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6197.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6457.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6496.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6541.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6583.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_1bfbeee9-fcac-4d17-8a45-432668959c0e
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:58:03","18/05/2024 12:58:03",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6197.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6457.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6496.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6541.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6583.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:58:01","18/05/2024 12:58:01",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x358c
+Faulting application start time: 0x01daa8f91839feb3
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:57:58","18/05/2024 12:57:58",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER62EE.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6408.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6438.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6445.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6505.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_43ca5265-a0ab-47dd-b14d-af98a4644336
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 8e761136-f0da-46a9-8336-15c602a4f91a
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:43:50","18/05/2024 12:43:50",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER62EE.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6408.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6438.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6445.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6505.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 8e761136-f0da-46a9-8336-15c602a4f91a
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:43:49","18/05/2024 12:43:49",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x231c
+Faulting application start time: 0x01daa8f71d40e971
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 8e761136-f0da-46a9-8336-15c602a4f91a
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:43:47","18/05/2024 12:43:47",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREB0D.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERED7F.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDDD.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDEB.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREE69.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WEREEAB.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_acfd1394-dee9-414f-aa61-947d0e7573bd
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:40:04","18/05/2024 12:40:04",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREB0D.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERED7F.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDDD.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDEB.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREE69.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WEREEAB.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:40:02","18/05/2024 12:40:02",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x41b8
+Faulting application start time: 0x01daa8f6950cb407
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:39:59","18/05/2024 12:39:59",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 12:36:24","18/05/2024 12:36:24","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 12:36:24","18/05/2024 12:36:24","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","Service stopped.","edgeupdate","System.String[]","18/05/2024 12:21:40","18/05/2024 12:21:40",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 11:36:22","18/05/2024 11:36:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 11:36:22","18/05/2024 11:36:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"3","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '3' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker elapsed'","iBtSiva","System.String[]","18/05/2024 11:35:17","18/05/2024 11:35:17",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'avast' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'","avast","System.String[]","18/05/2024 11:35:02","18/05/2024 11:35:02",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User unlock'","SynTPEnhService","System.String[]","18/05/2024 11:34:22","18/05/2024 11:34:22",
+"1","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '1' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker starting'","iBtSiva","System.String[]","18/05/2024 11:34:17","18/05/2024 11:34:17",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User lock'","SynTPEnhService","System.String[]","18/05/2024 02:12:58","18/05/2024 02:12:58",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:53","18/05/2024 02:09:53",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:53","18/05/2024 02:09:53",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:52","18/05/2024 02:09:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:52","18/05/2024 02:09:52",
+"16394","DESKTOP-LUGE14R","System.Byte[]","Information","Offline downlevel migration succeeded.","Software Protection Platform Service","System.String[]","18/05/2024 01:47:30","18/05/2024 01:47:30",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERDC5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF3D.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF4D.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF5B.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF9A.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERFDC.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_86a41054-6d7c-400c-aec7-1d3b0b0000c1
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 01:36:08","18/05/2024 01:36:08",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERDC5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF3D.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF4D.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF5B.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF9A.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERFDC.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 01:36:04","18/05/2024 01:36:04",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x2d3c
+Faulting application start time: 0x01daa899d4f0a8f9
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 01:36:02","18/05/2024 01:36:02",
+"8128","DESKTOP-LUGE14R","System.Byte[]","Information","Using 'xpstar.dll' version '2022.160.1000' to execute extended stored procedure 'xp_instance_regread'. This is an informational message only; no user action is required.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:24:09","18/05/2024 01:24:09",
+"33090","DESKTOP-LUGE14R","System.Byte[]","Information","Attempting to load library 'xpstar.dll' into memory. This is an informational message only. No user action is required.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:24:09","18/05/2024 01:24:09",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:15:25","18/05/2024 01:15:25","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:15:25","18/05/2024 01:15:25","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 00:15:22","18/05/2024 00:15:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 00:15:22","18/05/2024 00:15:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"3","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '3' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker elapsed'","iBtSiva","System.String[]","18/05/2024 21:38:02","18/05/2024 21:38:02",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User unlock'","SynTPEnhService","System.String[]","18/05/2024 21:37:03","18/05/2024 21:37:03",
+"1","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '1' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker starting'","iBtSiva","System.String[]","18/05/2024 21:37:01","18/05/2024 21:37:01",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User lock'","SynTPEnhService","System.String[]","18/05/2024 20:01:57","18/05/2024 20:01:57",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 19:13:31","18/05/2024 19:13:31","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 19:13:31","18/05/2024 19:13:31","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"3","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '3' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker elapsed'","iBtSiva","System.String[]","18/05/2024 19:00:16","18/05/2024 19:00:16",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 19:00:05","18/05/2024 19:00:05",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 19:00:05","18/05/2024 19:00:05",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 19:00:04","18/05/2024 19:00:04",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 19:00:04","18/05/2024 19:00:04",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'avast' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'","avast","System.String[]","18/05/2024 18:59:39","18/05/2024 18:59:39",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User unlock'","SynTPEnhService","System.String[]","18/05/2024 18:59:22","18/05/2024 18:59:22",
+"301","DESKTOP-LUGE14R","System.Byte[]","Information","Video.UI (3728,R,98) {AA1255FF-C73F-46F0-8FAC-41822E42ABD1}: The database engine has finished replaying logfile C:\Users\Malaika\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\783a839db6bab1ce\edb.log.
+
+
+
+Processing Stats: 
+[1] 0.074340 -0.018783 (19) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:632326/5366) +M(C:0K, Fs:1763, WS:4864K # 4872K, PF:940K # 956K, P:940K).
+
+Log record of type 'Insert   ' was seen most frequently (1967 times)","ESENT","System.String[]","18/05/2024 18:59:17","18/05/2024 18:59:17",
+"330","DESKTOP-LUGE14R","System.Byte[]","Information","Video.UI (3728,R,98) {AA1255FF-C73F-46F0-8FAC-41822E42ABD1}: The database [C:\Users\Malaika\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\783a839db6bab1ce\EntClientDb.edb] format version is being held back to 8920 (0x22d8) due to application parameter setting of 0x410022D8 (8920 | JET_efvAllowHigherPersistedFormat). Current default engine version: 9180 (0x23dc).","ESENT","System.String[]","18/05/2024 18:59:17","18/05/2024 18:59:17",
+"335","DESKTOP-LUGE14R","System.Byte[]","Information","Video.UI (3728,R,98) {AA1255FF-C73F-46F0-8FAC-41822E42ABD1}: Replay of a Create for database ""C:\Users\Malaika\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\783a839db6bab1ce\EntClientDb.edb"" at log position (00000001,0001,0268) was deferred due to AttachFuture.  Additional information:  ","ESENT","System.String[]","18/05/2024 18:59:17","18/05/2024 18:59:17",
+"300","DESKTOP-LUGE14R","System.Byte[]","Information","Video.UI (3728,R,98) {AA1255FF-C73F-46F0-8FAC-41822E42ABD1}: The database engine is initiating recovery steps.","ESENT","System.String[]","18/05/2024 18:59:17","18/05/2024 18:59:17",
+"102","DESKTOP-LUGE14R","System.Byte[]","Information","Video.UI (3728,P,98) {AA1255FF-C73F-46F0-8FAC-41822E42ABD1}: The database engine (10.00.19045.0000) is starting a new instance (0).","ESENT","System.String[]","18/05/2024 18:59:17","18/05/2024 18:59:17",
+"1","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '1' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker starting'","iBtSiva","System.String[]","18/05/2024 18:59:15","18/05/2024 18:59:15",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User lock'","SynTPEnhService","System.String[]","18/05/2024 15:21:58","18/05/2024 15:21:58",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 14:36:31","18/05/2024 14:36:31","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 14:36:31","18/05/2024 14:36:31","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"8224","DESKTOP-LUGE14R","System.Byte[]","Information","The VSS service is shutting down due to idle timeout.
+","VSS","System.String[]","18/05/2024 14:35:33","18/05/2024 14:35:33",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 13:36:27","18/05/2024 13:36:27","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 13:36:27","18/05/2024 13:36:27","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC1E5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4A5.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4D5.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4E2.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC551.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERC592.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_7b9d1df5-548c-4a18-8707-d547f129a20d
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 13:06:06","18/05/2024 13:06:06",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC1E5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4A5.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4D5.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4E2.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC551.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERC592.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 13:06:04","18/05/2024 13:06:04",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x498c
+Faulting application start time: 0x01daa8fa38e82d51
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 13:06:02","18/05/2024 13:06:02",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6197.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6457.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6496.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6541.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6583.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_1bfbeee9-fcac-4d17-8a45-432668959c0e
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:58:03","18/05/2024 12:58:03",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6197.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6457.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6496.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6541.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6583.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:58:01","18/05/2024 12:58:01",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x358c
+Faulting application start time: 0x01daa8f91839feb3
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:57:58","18/05/2024 12:57:58",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER62EE.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6408.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6438.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6445.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6505.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_43ca5265-a0ab-47dd-b14d-af98a4644336
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 8e761136-f0da-46a9-8336-15c602a4f91a
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:43:50","18/05/2024 12:43:50",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER62EE.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6408.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6438.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6445.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6505.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 8e761136-f0da-46a9-8336-15c602a4f91a
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:43:49","18/05/2024 12:43:49",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x231c
+Faulting application start time: 0x01daa8f71d40e971
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 8e761136-f0da-46a9-8336-15c602a4f91a
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:43:47","18/05/2024 12:43:47",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREB0D.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERED7F.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDDD.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDEB.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREE69.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WEREEAB.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_acfd1394-dee9-414f-aa61-947d0e7573bd
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:40:04","18/05/2024 12:40:04",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREB0D.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERED7F.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDDD.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDEB.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREE69.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WEREEAB.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:40:02","18/05/2024 12:40:02",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x41b8
+Faulting application start time: 0x01daa8f6950cb407
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:39:59","18/05/2024 12:39:59",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 12:36:24","18/05/2024 12:36:24","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 12:36:24","18/05/2024 12:36:24","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","Service stopped.","edgeupdate","System.String[]","18/05/2024 12:21:40","18/05/2024 12:21:40",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 11:36:22","18/05/2024 11:36:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 11:36:22","18/05/2024 11:36:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"3","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '3' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker elapsed'","iBtSiva","System.String[]","18/05/2024 11:35:17","18/05/2024 11:35:17",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'avast' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'","avast","System.String[]","18/05/2024 11:35:02","18/05/2024 11:35:02",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User unlock'","SynTPEnhService","System.String[]","18/05/2024 11:34:22","18/05/2024 11:34:22",
+"1","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '1' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker starting'","iBtSiva","System.String[]","18/05/2024 11:34:17","18/05/2024 11:34:17",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User lock'","SynTPEnhService","System.String[]","18/05/2024 02:12:58","18/05/2024 02:12:58",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:53","18/05/2024 02:09:53",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:53","18/05/2024 02:09:53",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:52","18/05/2024 02:09:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:52","18/05/2024 02:09:52",
+"16394","DESKTOP-LUGE14R","System.Byte[]","Information","Offline downlevel migration succeeded.","Software Protection Platform Service","System.String[]","18/05/2024 01:47:30","18/05/2024 01:47:30",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERDC5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF3D.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF4D.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF5B.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF9A.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERFDC.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_86a41054-6d7c-400c-aec7-1d3b0b0000c1
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 01:36:08","18/05/2024 01:36:08",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERDC5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF3D.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF4D.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF5B.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF9A.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERFDC.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 01:36:04","18/05/2024 01:36:04",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x2d3c
+Faulting application start time: 0x01daa899d4f0a8f9
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 01:36:02","18/05/2024 01:36:02",
+"8128","DESKTOP-LUGE14R","System.Byte[]","Information","Using 'xpstar.dll' version '2022.160.1000' to execute extended stored procedure 'xp_instance_regread'. This is an informational message only; no user action is required.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:24:09","18/05/2024 01:24:09",
+"33090","DESKTOP-LUGE14R","System.Byte[]","Information","Attempting to load library 'xpstar.dll' into memory. This is an informational message only. No user action is required.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:24:09","18/05/2024 01:24:09",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:15:25","18/05/2024 01:15:25","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:15:25","18/05/2024 01:15:25","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 00:15:22","18/05/2024 00:15:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 00:15:22","18/05/2024 00:15:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"3","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '3' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker elapsed'","iBtSiva","System.String[]","18/05/2024 22:23:59","18/05/2024 22:23:59",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","Service stopped.","edgeupdate","System.String[]","18/05/2024 22:23:41","18/05/2024 22:23:41",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User unlock'","SynTPEnhService","System.String[]","18/05/2024 22:23:03","18/05/2024 22:23:03",
+"1","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '1' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker starting'","iBtSiva","System.String[]","18/05/2024 22:22:59","18/05/2024 22:22:59",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User lock'","SynTPEnhService","System.String[]","18/05/2024 22:18:24","18/05/2024 22:18:24",
+"8224","DESKTOP-LUGE14R","System.Byte[]","Information","The VSS service is shutting down due to idle timeout.
+","VSS","System.String[]","18/05/2024 21:55:39","18/05/2024 21:55:39",
+"8302","DESKTOP-LUGE14R","System.Byte[]","Information","Scoping successfully completed for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy4.","Microsoft-Windows-System-Restore","System.String[]","18/05/2024 21:53:18","18/05/2024 21:53:18","NT AUTHORITY\SYSTEM"
+"8301","DESKTOP-LUGE14R","System.Byte[]","Information","Scoping completed for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy4.","Microsoft-Windows-System-Restore","System.String[]","18/05/2024 21:53:18","18/05/2024 21:53:18","NT AUTHORITY\SYSTEM"
+"10001","DESKTOP-LUGE14R","System.Byte[]","Information","Ending session 0 started 2024-05-18T16:53:06.6825780Z.","Microsoft-Windows-RestartManager","System.String[]","18/05/2024 21:53:06","18/05/2024 21:53:06","NT AUTHORITY\SYSTEM"
+"10005","DESKTOP-LUGE14R","System.Byte[]","Information","Machine restart is required.","Microsoft-Windows-RestartManager","System.String[]","18/05/2024 21:53:06","18/05/2024 21:53:06","NT AUTHORITY\SYSTEM"
+"10010","DESKTOP-LUGE14R","System.Byte[]","Warning","Application 'C:\Program Files (x86)\Microsoft SQL Server Management Studio 20\Common7\IDE\Ssms.exe' (pid 8596) cannot be restarted - 1.","Microsoft-Windows-RestartManager","System.String[]","18/05/2024 21:53:06","18/05/2024 21:53:06","NT AUTHORITY\SYSTEM"
+"10000","DESKTOP-LUGE14R","System.Byte[]","Information","Starting session 0 - 2024-05-18T16:53:06.6825780Z.","Microsoft-Windows-RestartManager","System.String[]","18/05/2024 21:53:06","18/05/2024 21:53:06","NT AUTHORITY\SYSTEM"
+"8300","DESKTOP-LUGE14R","System.Byte[]","Information","Scoping started for shadowcopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy4.","Microsoft-Windows-System-Restore","System.String[]","18/05/2024 21:52:40","18/05/2024 21:52:40","NT AUTHORITY\SYSTEM"
+"8194","DESKTOP-LUGE14R","System.Byte[]","Information","Successfully created restore point (Process = C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.4351_none_7e19dc327c844a77\TiWorker.exe -Embedding; Description = Windows Modules Installer).","System Restore","System.String[]","18/05/2024 21:52:28","18/05/2024 21:52:28",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 21:48:30","18/05/2024 21:48:30","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 21:48:30","18/05/2024 21:48:30","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"3","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '3' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker elapsed'","iBtSiva","System.String[]","18/05/2024 21:38:02","18/05/2024 21:38:02",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User unlock'","SynTPEnhService","System.String[]","18/05/2024 21:37:03","18/05/2024 21:37:03",
+"1","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '1' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker starting'","iBtSiva","System.String[]","18/05/2024 21:37:01","18/05/2024 21:37:01",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User lock'","SynTPEnhService","System.String[]","18/05/2024 20:01:57","18/05/2024 20:01:57",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 19:13:31","18/05/2024 19:13:31","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 19:13:31","18/05/2024 19:13:31","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"3","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '3' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker elapsed'","iBtSiva","System.String[]","18/05/2024 19:00:16","18/05/2024 19:00:16",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 19:00:05","18/05/2024 19:00:05",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 19:00:05","18/05/2024 19:00:05",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 19:00:04","18/05/2024 19:00:04",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 19:00:04","18/05/2024 19:00:04",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'avast' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'","avast","System.String[]","18/05/2024 18:59:39","18/05/2024 18:59:39",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User unlock'","SynTPEnhService","System.String[]","18/05/2024 18:59:22","18/05/2024 18:59:22",
+"301","DESKTOP-LUGE14R","System.Byte[]","Information","Video.UI (3728,R,98) {AA1255FF-C73F-46F0-8FAC-41822E42ABD1}: The database engine has finished replaying logfile C:\Users\Malaika\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\783a839db6bab1ce\edb.log.
+
+
+
+Processing Stats: 
+[1] 0.074340 -0.018783 (19) WT +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:632326/5366) +M(C:0K, Fs:1763, WS:4864K # 4872K, PF:940K # 956K, P:940K).
+
+Log record of type 'Insert   ' was seen most frequently (1967 times)","ESENT","System.String[]","18/05/2024 18:59:17","18/05/2024 18:59:17",
+"330","DESKTOP-LUGE14R","System.Byte[]","Information","Video.UI (3728,R,98) {AA1255FF-C73F-46F0-8FAC-41822E42ABD1}: The database [C:\Users\Malaika\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\783a839db6bab1ce\EntClientDb.edb] format version is being held back to 8920 (0x22d8) due to application parameter setting of 0x410022D8 (8920 | JET_efvAllowHigherPersistedFormat). Current default engine version: 9180 (0x23dc).","ESENT","System.String[]","18/05/2024 18:59:17","18/05/2024 18:59:17",
+"335","DESKTOP-LUGE14R","System.Byte[]","Information","Video.UI (3728,R,98) {AA1255FF-C73F-46F0-8FAC-41822E42ABD1}: Replay of a Create for database ""C:\Users\Malaika\AppData\Local\Packages\Microsoft.ZuneVideo_8wekyb3d8bbwe\LocalState\Database\783a839db6bab1ce\EntClientDb.edb"" at log position (00000001,0001,0268) was deferred due to AttachFuture.  Additional information:  ","ESENT","System.String[]","18/05/2024 18:59:17","18/05/2024 18:59:17",
+"300","DESKTOP-LUGE14R","System.Byte[]","Information","Video.UI (3728,R,98) {AA1255FF-C73F-46F0-8FAC-41822E42ABD1}: The database engine is initiating recovery steps.","ESENT","System.String[]","18/05/2024 18:59:17","18/05/2024 18:59:17",
+"102","DESKTOP-LUGE14R","System.Byte[]","Information","Video.UI (3728,P,98) {AA1255FF-C73F-46F0-8FAC-41822E42ABD1}: The database engine (10.00.19045.0000) is starting a new instance (0).","ESENT","System.String[]","18/05/2024 18:59:17","18/05/2024 18:59:17",
+"1","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '1' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker starting'","iBtSiva","System.String[]","18/05/2024 18:59:15","18/05/2024 18:59:15",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User lock'","SynTPEnhService","System.String[]","18/05/2024 15:21:58","18/05/2024 15:21:58",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 14:36:31","18/05/2024 14:36:31","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 14:36:31","18/05/2024 14:36:31","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"8224","DESKTOP-LUGE14R","System.Byte[]","Information","The VSS service is shutting down due to idle timeout.
+","VSS","System.String[]","18/05/2024 14:35:33","18/05/2024 14:35:33",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 13:36:27","18/05/2024 13:36:27","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 13:36:27","18/05/2024 13:36:27","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC1E5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4A5.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4D5.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4E2.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC551.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERC592.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_7b9d1df5-548c-4a18-8707-d547f129a20d
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 13:06:06","18/05/2024 13:06:06",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC1E5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4A5.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4D5.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC4E2.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERC551.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERC592.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_7b9d1df5-548c-4a18-8707-d547f129a20d
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 13:06:04","18/05/2024 13:06:04",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x498c
+Faulting application start time: 0x01daa8fa38e82d51
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 3d604a96-6e2d-40ae-8374-3dbc0ec2c7e7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 13:06:02","18/05/2024 13:06:02",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6197.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6457.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6496.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6541.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6583.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_1bfbeee9-fcac-4d17-8a45-432668959c0e
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:58:03","18/05/2024 12:58:03",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6197.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6457.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6496.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6541.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6583.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_1bfbeee9-fcac-4d17-8a45-432668959c0e
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:58:01","18/05/2024 12:58:01",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x358c
+Faulting application start time: 0x01daa8f91839feb3
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 5ad8269e-0888-4462-a9e3-e624853b6dc7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:57:58","18/05/2024 12:57:58",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER62EE.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6408.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6438.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6445.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6505.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_43ca5265-a0ab-47dd-b14d-af98a4644336
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 8e761136-f0da-46a9-8336-15c602a4f91a
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:43:50","18/05/2024 12:43:50",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER62EE.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6408.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6438.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER6445.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER64C3.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WER6505.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_43ca5265-a0ab-47dd-b14d-af98a4644336
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 8e761136-f0da-46a9-8336-15c602a4f91a
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:43:49","18/05/2024 12:43:49",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x231c
+Faulting application start time: 0x01daa8f71d40e971
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 8e761136-f0da-46a9-8336-15c602a4f91a
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:43:47","18/05/2024 12:43:47",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREB0D.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERED7F.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDDD.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDEB.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREE69.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WEREEAB.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_acfd1394-dee9-414f-aa61-947d0e7573bd
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:40:04","18/05/2024 12:40:04",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREB0D.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERED7F.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDDD.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREDEB.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WEREE69.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WEREEAB.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_acfd1394-dee9-414f-aa61-947d0e7573bd
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 12:40:02","18/05/2024 12:40:02",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x41b8
+Faulting application start time: 0x01daa8f6950cb407
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: 9d02fad7-b27b-4646-9b33-e9dc93e13315
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 12:39:59","18/05/2024 12:39:59",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 12:36:24","18/05/2024 12:36:24","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 12:36:24","18/05/2024 12:36:24","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","Service stopped.","edgeupdate","System.String[]","18/05/2024 12:21:40","18/05/2024 12:21:40",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 11:36:22","18/05/2024 11:36:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 11:36:22","18/05/2024 11:36:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"3","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '3' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker elapsed'","iBtSiva","System.String[]","18/05/2024 11:35:17","18/05/2024 11:35:17",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'avast' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'Service stopped'","avast","System.String[]","18/05/2024 11:35:02","18/05/2024 11:35:02",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 11:34:52","18/05/2024 11:34:52",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User unlock'","SynTPEnhService","System.String[]","18/05/2024 11:34:22","18/05/2024 11:34:22",
+"1","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '1' in Source 'iBtSiva' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'iBtSiva', 'Siva worker starting'","iBtSiva","System.String[]","18/05/2024 11:34:17","18/05/2024 11:34:17",
+"0","DESKTOP-LUGE14R","System.Byte[]","Information","The description for Event ID '0' in Source 'SynTPEnhService' cannot be found.  The local computer may not have the necessary registry information or message DLL files to display the message, or you may not have permission to access them.  The following information is part of the event:'SynTPEnhService', 'Session Changed User lock'","SynTPEnhService","System.String[]","18/05/2024 02:12:58","18/05/2024 02:12:58",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:53","18/05/2024 02:09:53",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:53","18/05/2024 02:09:53",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:52","18/05/2024 02:09:52",
+"15","DESKTOP-LUGE14R","System.Byte[]","Information","Updated Avast Antivirus status successfully to SECURITY_PRODUCT_STATE_ON.","SecurityCenter","System.String[]","18/05/2024 02:09:52","18/05/2024 02:09:52",
+"16394","DESKTOP-LUGE14R","System.Byte[]","Information","Offline downlevel migration succeeded.","Software Protection Platform Service","System.String[]","18/05/2024 01:47:30","18/05/2024 01:47:30",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket 1971078399849264591, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERDC5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF3D.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF4D.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF5B.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF9A.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERFDC.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_86a41054-6d7c-400c-aec7-1d3b0b0000c1
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Report Status: 268435456
+Hashed bucket: ac692caaa33764794b5aad5c8775f5cf
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 01:36:08","18/05/2024 01:36:08",
+"1001","DESKTOP-LUGE14R","System.Byte[]","Information","Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: wps.exe
+P2: 12.2.0.16909
+P3: 662d3006
+P4: ksolite.dll
+P5: 12.2.0.16909
+P6: 662d3043
+P7: c0000005
+P8: 0054d9f2
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERDC5.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF3D.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF4D.tmp.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF5B.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WERF9A.tmp.txt
+\\?\C:\Users\Malaika\AppData\Local\Temp\WERFDC.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_wps.exe_d2b8f7d0ece18d1da4afdece5a66d249bb6358d_076bcc15_cab_86a41054-6d7c-400c-aec7-1d3b0b0000c1
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0","Windows Error Reporting","System.String[]","18/05/2024 01:36:04","18/05/2024 01:36:04",
+"1000","DESKTOP-LUGE14R","System.Byte[]","Error","Faulting application name: wps.exe, version: 12.2.0.16909, time stamp: 0x662d3006
+Faulting module name: ksolite.dll, version: 12.2.0.16909, time stamp: 0x662d3043
+Exception code: 0xc0000005
+Fault offset: 0x0054d9f2
+Faulting process ID: 0x2d3c
+Faulting application start time: 0x01daa899d4f0a8f9
+Faulting application path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\wps.exe
+Faulting module path: C:\Users\Malaika\AppData\Local\Kingsoft\WPS Office\12.2.0.16909\office6\ksolite.dll
+Report ID: e703ff6e-4cb0-4be2-a772-4d57283b6bc7
+Faulting package full name: 
+Faulting package-relative application ID: ","Application Error","System.String[]","18/05/2024 01:36:02","18/05/2024 01:36:02",
+"8128","DESKTOP-LUGE14R","System.Byte[]","Information","Using 'xpstar.dll' version '2022.160.1000' to execute extended stored procedure 'xp_instance_regread'. This is an informational message only; no user action is required.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:24:09","18/05/2024 01:24:09",
+"33090","DESKTOP-LUGE14R","System.Byte[]","Information","Attempting to load library 'xpstar.dll' into memory. This is an informational message only. No user action is required.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:24:09","18/05/2024 01:24:09",
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:15:25","18/05/2024 01:15:25","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 01:15:25","18/05/2024 01:15:25","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25753","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' started.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 00:15:22","18/05/2024 00:15:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"
+"25754","DESKTOP-LUGE14R","System.Byte[]","Information","XE session 'telemetry_xevents' stopping.","MSSQL$SQLEXPRESS","System.String[]","18/05/2024 00:15:22","18/05/2024 00:15:22","NT SERVICE\SQLTELEMETRY$SQLEXPRESS"

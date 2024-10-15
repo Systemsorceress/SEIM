@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Security Event Logs</title>
+</head>
+<body>
+    <h1>Security Event Logs</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>EventID</th>
+                <th>MachineName</th>
+                <th>Data</th>
+
+                <th>Category</th>
+                <th>CategoryNumber</th>
+                <th>EntryType</th>
+                <th>Message</th>
+                <th>Source</th>
+                <th>ReplacementStrings</th>
+                <th>InstanceId</th>
+                <th>TimeGenerated</th>
+                <th>TimeWritten</th>
+                <th>UserName</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            {% for log in logs %}
+            <tr>
+                <td>{{ log.EventID }}</td>
+                <td>{{ log.MachineName }}</td>
+                <td>{{ log.Data }}</td>
+               
+                <td>{{ log.Category }}</td>
+                <td>{{ log.CategoryNumber }}</td>
+                <td>{{ log.EntryType }}</td>
+                <td>{{ log.Message }}</td>
+                <td>{{ log.Source }}</td>
+                <td>{{ log.ReplacementStrings }}</td>
+                <td>{{ log.InstanceId }}</td>
+                <td>{{ log.TimeGenerated }}</td>
+                <td>{{ log.TimeWritten }}</td>
+                <td>{{ log.UserName }}</td>
+               
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

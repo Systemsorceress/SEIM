@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEIM</title>
+    <style>
+        /* Styles from your original HTML */
+        body {
+            background-color: rgb(3, 4, 94);
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            display: flex;
+        }
+        .sidebar {
+            width: 200px;
+            height: 100vh;
+            background-color: #222;
+            color: white;
+            padding: 20px;
+            box-sizing: border-box;
+            position: fixed;
+            left: 0;
+            top: 0;
+        }
+        .sidebar h1 {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .sidebar .section {
+            margin-bottom: 20px;
+        }
+        .sidebar .section a {
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: 10px 0;
+            text-align: center;
+            transition: background-color 0.3s ease;
+        }
+        .sidebar .section a:hover {
+            background-color: #444;
+        }
+        .content {
+            flex: 1;
+            padding: 20px;
+            margin-left: 200px;
+            box-sizing: border-box;
+        }
+        .logs {
+            background-color: rgb(3, 4, 94);
+            color: white;
+            padding: 20px;
+            margin-top: 80px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            color: white;
+        }
+        th, td {
+            border: 1px solid white;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: rgba(0, 0, 0, 0.2);
+        }
+        .actions {
+            margin-bottom: 20px;
+        }
+        .actions button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin-right: 10px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .actions button:hover {
+            background-color: #0056b3;
+        }
+        .refresh-button-container {
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        .refresh-button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .refresh-button:hover {
+            background-color: #218838;
+        }
+        .chart-container,
+        .text-container {
+            width: 45%; /* Adjust the width as needed */
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .chart-container canvas {
+            width: 100%;
+            height: auto;
+        }
+        .text-container h2,
+        .text-container p {
+            color: black; /* Text color set to black */
+        }
+        h2 {
+            margin-top: 0;
+        }
+        p {
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h1>SEIM</h1>
+            <div class="section">
+                <a href="#" id="details-btn">Details</a>
+            </div>
+            <div class="section">
+                <a href="#" id="summary-btn">Summary</a>
+            </div>
+        </div>
+        <div class="content">
+            <div class="logs" id="logs-details">
+                <div class="actions">
+                    <button id="update-btn">Update</button>
+                    <button id="load-btn">Load</button>
+                </div>
+                <table id="security-logs-table">
+                    <thead>
+                        <tr>
+                            <th>MachineName</th>
+                            <th>Data</th>
+                            <th>EntryType</th>
+                            <th>Message</th>
+                            <th>Source</th>
+                            <th>ReplacementStrings</th>
+                            <th>TimeGenerated</th>
+                            <th>TimeWritten</th>
+                            <th>UserName</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Dynamic data will be populated here -->
+                        <tr>
+                            <td>SampleMachine</td>
+                            <td>SampleData</td>
+                            <td>SampleEntryType</td>
+                            <td>SampleMessage</td>
+                            <td>SampleSource</td>
+                            <td>SampleReplacementStrings</td>
+                            <td>SampleTimeGenerated</td>
+                            <td>SampleTimeWritten</td>
+                            <td>SampleUserName</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="logs" id="logs-summary" style="display: none;">
+                <div class="refresh-button-container">
+                    <button class="refresh-button" onclick="refreshAllData()">Refresh</button>
+                </div>
+                <div class="container">
+                    <div class="chart-container">
+                        <canvas id="pie-chart-1" width="400" height="400"></canvas>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="pie-chart-2" width="400" height="400"></canvas>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="text-container">
+                        <h2>TOTAL LOGS</h2>
+                        <p id="total-logs">Loading...</p>
+                    </div>
+                    <div class="text-container">
+                        <h2>ENTRY LEVELS</h2>
+                        <div id="entry-levels">
+                        <p>This is your entry levels.</p>
+                    </div>
+                </div>
+                <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+                <script>
+                    // Pie Chart 1 Data
+                    var pieChart1Data = {
+                        labels: ['Security', 'System', 'Application'],
+                        datasets: [{
+                            data: [300, 50, 100],
+                            backgroundColor: ['#FF6384', '#36A2EB', '#FFCE56'],
+                            hoverBackgroundColor: ['#FF6384', '#36A2EB', '#FFCE56']
+                        }]
+                    };
+            
+                    // Pie Chart 2 Data
+                    var pieChart2Data = {
+                        labels: ['Error', 'Information', 'SuccessAudit','Warning'],
+                        datasets: [{
+                            data: [200, 100, 150,100],
+                            backgroundColor: ['#4CAF50', '#9C27B0', '#FF9800','#f23645'],
+                            hoverBackgroundColor: ['#4CAF50', '#9C27B0', '#FF9800','#f23645']
+                        }]
+                    };
+            
+                    // Create Pie Chart 1
+                    var pieChart1 = new Chart(document.getElementById('pie-chart-1'), {
+                        type: 'pie',
+                        data: pieChart1Data,
+                        options: {
+                            responsive: false,
+                            maintainAspectRatio: false,
+                            plugins: {
+                                legend: {
+                                    labels: {
+                                        fontSize: 18
+                                    }
+                                }
+                            }
+                        }
+                    });
+            
+                    // Create Pie Chart 2
+                    var pieChart2 = new Chart(document.getElementById('pie-chart-2'), {
+                        type: 'pie',
+                        data: pieChart2Data,
+                        options: {
+                            responsive: false,
+                            maintainAspectRatio: false,
+                            plugins: {
+                                legend: {
+                                    labels: {
+                                        fontSize: 18
+                                    }
+                                }
+                            }
+                        }
+                    });
+                </script>
+                <script>
+                 
+
+                </script>
+            </div>
+        </div>
+    </div>
+    <script>
+        // JavaScript to toggle between Details and Summary sections
+        const detailsBtn = document.getElementById('details-btn');
+        const summaryBtn = document.getElementById('summary-btn');
+        const logsDetails = document.getElementById('logs-details');
+        const logsSummary = document.getElementById('logs-summary');
+
+        detailsBtn.addEventListener('click', function() {
+            logsDetails.style.display = 'block';
+            logsSummary.style.display = 'none';
+        });
+
+        summaryBtn.addEventListener('click', function() {
+            logsDetails.style.display = 'none';
+            logsSummary.style.display = 'block';
+        });
+
+        // Load data into the table
+        const loadBtn = document.getElementById('load-btn');
+        loadBtn.addEventListener('click', function() {
+            fetch('/load_data')
+                .then(response => response.json())
+                .then(data => {
+                    const tableBody = document.querySelector('#security-logs-table tbody');
+                    tableBody.innerHTML = '';
+
+                    data.forEach(row => {
+                        const newRow = document.createElement('tr');
+                        newRow.innerHTML = `
+                            <td>${row.MachineName}</td>
+                            <td>${row.Data}</td>
+                            <td>${row.EntryType}</td>
+                            <td>${row.Message}</td>
+                            <td>${row.Source}</td>
+                            <td>${row.ReplacementStrings}</td>
+                            <td>${row.TimeGenerated}</td>
+                            <td>${row.TimeWritten}</td>
+                            <td>${row.UserName}</td>
+                        `;
+                        tableBody.appendChild(newRow);
+                    });
+                })
+                .catch(error => console.error('Error loading data:', error));
+        });
+
+        // Open PowerShell as Administrator
+        const updateBtn = document.getElementById('update-btn');
+        updateBtn.addEventListener('click', function() {
+            fetch('/open_powershell', {
+                method: 'POST'
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.message) {
+                    alert(data.message);
+                } else {
+                    alert('Error: ' + data.error);
+                }
+            })
+            .catch(error => console.error('Error:', error));
+        });
+    </script>
+<script>
+    function refreshAllData() {
+        Promise.all([
+            fetch('/refresh_logs_by_type').then(response => response.json()),
+            fetch('/refresh_entry_levels').then(response => response.json()),
+            fetch('/refresh_data').then(response => response.json()),
+            fetch('/refresh_chart_data').then(response => response.json())
+        ]).then(([logsByTypeData, entryLevelsData, totalLogsData, chartData]) => {
+            // Update total logs count
+            const totalLogsElement = document.getElementById('total-logs');
+            totalLogsElement.textContent = totalLogsData.total_logs;
+
+            // Update entry levels
+            const entryLevelsElement = document.querySelector('#entry-levels');
+            entryLevelsElement.innerHTML = ''; // Clear existing content
+            for (const [entryType, count] of Object.entries(entryLevelsData)) {
+                const p = document.createElement('p');
+                p.textContent = `${entryType}: ${count}`;
+                entryLevelsElement.appendChild(p);
+            }
+
+            // Update chart data (Pie Chart 1)
+            const pieChart1Data = Object.values(chartData.pie_chart1);
+            const pieChart1Labels = Object.keys(chartData.pie_chart1);
+            pieChart1.data.labels = pieChart1Labels;
+            pieChart1.data.datasets[0].data = pieChart1Data;
+            pieChart1.update();
+
+            // Update chart data (Pie Chart 2)
+            const pieChart2Data = Object.values(chartData.pie_chart2);
+            const pieChart2Labels = Object.keys(chartData.pie_chart2);
+            pieChart2.data.labels = pieChart2Labels;
+            pieChart2.data.datasets[0].data = pieChart2Data;
+            pieChart2.update();
+        }).catch(error => console.error('Error refreshing data:', error));
+    }
+</script>
+
+
+
+<script>
+    // Function to fetch and update the total logs count
+    function refreshLogsByType() {
+        fetch('/refresh_logs_by_type')
+            .then(response => response.json())
+            .then(data => {
+                // Update the total logs count in the <p> element
+                const totalLogsElement = document.getElementById('total-logs');
+                totalLogsElement.textContent = data.total_logs;
+            })
+            .catch(error => console.error('Error refreshing logs by type:', error));
+    }
+
+    // Call the refreshLogsByType function when the page is loaded
+    document.addEventListener('DOMContentLoaded', function() {
+        refreshLogsByType();
+    });
+</script>
+
+
+</body>
+</html>
