@@ -29,6 +29,7 @@ This **PyQt5-based GUI application** helps analyze security event logs by fetchi
 Install the required Python libraries:
  ```bash
 pip install PyQt5 pyodbc matplotlib
+
 Ensure that you have PowerShell installed and have the necessary permissions to execute PowerShell scripts.
 
 Set up your SQL Server and update the connection string in the code with your credentials.
@@ -68,6 +69,7 @@ The application uses PowerShell to fetch event logs:
 
  ```bash
 Start-Process powershell.exe -Verb runAs -ArgumentList "-Command", "Get-EventLog -LogName System -After 00:00:00 -Before 23:59:59 | Export-Csv -Path 'E:\\SEIM\\security_event_log.csv' -NoTypeInformation; Get-EventLog -LogName Security -After 00:00:00 -Before 23:59:59 | Export-Csv -Append -Path 'E:\\SEIM\\security_event_log.csv' -NoTypeInformation; Get-EventLog -LogName Application -After 00:00:00 -Before 23:59:59 | Export-Csv -Append -Path 'E:\\SEIM\\security_event_log.csv' -NoTypeInformation"
+
 Database Storage
 Logs are inserted into an SQL Server database with the following schema:
 
