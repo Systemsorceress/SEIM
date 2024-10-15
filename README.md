@@ -26,9 +26,11 @@ This **PyQt5-based GUI application** helps analyze security event logs by fetchi
    ```bash
    git clone https://github.com/yourusername/seim-security-log-analyzer.git
    cd seim-security-log-analyzer
+   ```
 Install the required Python libraries:
  ```bash
 pip install PyQt5 pyodbc matplotlib
+```
 
 Ensure that you have PowerShell installed and have the necessary permissions to execute PowerShell scripts.
 
